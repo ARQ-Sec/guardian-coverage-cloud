@@ -1,0 +1,3 @@
+# coverage campaign entry
+# rule_key: guardian.cloudflare-origin-ca-key
+v1.0-f728884f5bdde712bf3d0a75-0dea5ed5b82868eba71b18fe9b354f51253f7f7e9f2fa3283211d9270602a61ed150b92147ce0ce19645dc5ba1113213140f78d51efc3b73f0e100e37b7a3c1057c56154ae91739cd9
